@@ -260,11 +260,17 @@ http://localhost:8080/
 ## 12. Tech Stack
 
 **Languages** : Python, SQL
+
 **Orchestration**:  Apache Airflow
+
 **Data Storage**: PostgreSQL
+
 **Containerization**: Docker, Docker Compose
+
 **Testing**: pytest, SODA Core
+
 **CI/CD**: GitHub Actions
+
 
 
 
