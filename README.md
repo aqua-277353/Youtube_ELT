@@ -204,7 +204,7 @@ Thiết kế container hóa giúp:
 ## 11. How To Run Locally
 
 ### 1️⃣ Clone repository
-git clone https://github.com/aqua-277353/Youtube_ETL.git
+git clone https://github.com/aqua-277353/Youtube_ELT.git
 cd Youtube_ELT
 
 ### 2️⃣ Tạo file `.env`
